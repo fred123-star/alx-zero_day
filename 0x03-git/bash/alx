@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "ALX school is cool!"
-sh: 1: wq: not found
+echo "ALX school"
+
+
 
